@@ -2949,7 +2949,7 @@ ul li {
 /*================*** Header Section End Here     ***===================*/
 /*======== Banner css start here  =========*/
 .banner-section {
-  background: url(../images/banner/bg.jpg);
+  background: url(https://miami-disaster-expo.s3.amazonaws.com/Miami+Disaster+Expo+Banner.jpg);
   background-size: cover;
 }
 .banner-section .banner-wrapper {
