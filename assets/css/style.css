@@ -569,7 +569,7 @@ ul li {
 }
 
 .shape-img:after {
-  background-image: url("../images/shape/shape.png");
+  background-image: url("https://miami-disaster-expo.s3.amazonaws.com/Miami+disaster+expo+webinar+course+cover.jpg");
   background-size: contain;
   background-repeat: no-repeat;
   top: 0;
