@@ -582,7 +582,7 @@ ul li {
 /* @@@@@@@@@@@@@  Page Header Section Start Here  @@@@@@@@@@@@@@ */
 .page-header {
   padding: 100px 0;
-  background: url(../images/footer/bg.jpg);
+  background: url(https://miami-disaster-expo.s3.amazonaws.com/miami+disaster+expo+webinar+registration+header.svg);
   background-size: cover;
 }
 @media (min-width: 992px) {
